@@ -2,7 +2,7 @@
 
 _To change stuff in [Scrap Mechanic](https://store.steampowered.com/app/387990/Scrap_Mechanic/)_
 
-One day I might make a full blown mod out of these (once I figure out how to do this correctly. Right now I'm just collecting scripts so I can reapply them if and when the game scripts change.
+One day I might make a full blown mod out of these (once I figure out how to do this correctly). Right now I'm just collecting scripts so I can reapply them if and when the game scripts change.
 
 **Content:**
 
