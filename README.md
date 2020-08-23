@@ -11,6 +11,9 @@ One day I might make a full blown mod out of these (once I figure out how to do 
     - [Gasohol Tier 1](#gasohol-tier-1)
     - [Gasohol Tier 2](#gasohol-tier-2)
     - [Potato Gasohol](#potato-gasohol)
+- [Stack Size Changes](#stack-size-changes)
+    - [Consumables](#consumables)
+    - [Resources](#resources)
 
 <hr/>
 
@@ -166,8 +169,6 @@ Objects that are only to craft other stuff can be found in _Survival/Objects/Dat
 | `267e0c93-62e3-45ad-9470-a14035cb9ca4` | Ember |  |
 | `388adeab-67e5-4901-afe8-c56217754510` | Glow Poop | ! |
 | `36335664-6e61-4d44-9876-54f9660a8565` | Glue | ! |
-
-
-
 | `fb0f128c-e607-4c52-9c25-f44dfd2dd95e` | Steak | ! |
-|  |  |  |
+
+
